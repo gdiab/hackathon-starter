@@ -3,6 +3,7 @@ George's Hackathon Starter [![Dependency Status](https://david-dm.org/gdiab/hack
 =======================
 
 
+
 **Live Demo**: http://hackathonstarter.herokuapp.com
 
 Jump to [What's new in 4.0.0?](#changelog)
