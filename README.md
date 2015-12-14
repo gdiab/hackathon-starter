@@ -1147,6 +1147,8 @@ Also, be sure to check out the [Jump-start your hackathon efforts with DevOps Se
 
 Changelog
 ---------
+### 4.0.0 (December 13, 2015)
+- Making it mine.
 
 ### 3.2.0 (October 19, 2015)
 - Added Google Analytics script.
