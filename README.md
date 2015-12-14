@@ -4,7 +4,7 @@ George's Hackathon Starter [![Dependency Status](https://david-dm.org/gdiab/hack
 
 **Live Demo**: http://hackathonstarter.herokuapp.com
 
-Jump to [What's new in 3.2.0?](#changelog)
+Jump to [What's new in 4.0.0?](#changelog)
 
 A boilerplate for **Node.js** web applications.
 
